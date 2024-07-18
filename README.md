@@ -1,5 +1,4 @@
-![Descrição da Imagem](img/tela-2.png)
-![Descrição da Imagem](img/tela-viagem.png)
+
 
 <div >
   <h1 style="color: white; text-align: center; padding-top: 40vh;">Bem-vindo ao Meu Plann.er</h1>
