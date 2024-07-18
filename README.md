@@ -4,8 +4,8 @@
 <div >
   <h1 style="color: white; text-align: center; padding-top: 40vh;">Bem-vindo ao Meu Plann.er</h1>
     <br/>
-  <div style="background-image: url('img/tela-viagem'); height: 50vh; width: 50%; background-size: cover;">
-  </div> 
+  <img src="img/tela-2"  height: 50vh; width: 50%; />
+ 
   <br/>
 </div>
 
