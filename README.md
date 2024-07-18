@@ -10,8 +10,8 @@
 </div>
 
 ## Sobre o projeto
-Este projeto é um planejador de Viagens, tecnologias que usei: <br/>
--TypeScript <br/>
--React  <br/>
--JavaScript <br/>
--Tailwind <br/>
+Este projeto é um planejador de Viagens, tecnologias que ultilizei:  <br/>
+- TypeScript <br/>
+- React  <br/>
+- JavaScript <br/>
+- Tailwind <br/>
