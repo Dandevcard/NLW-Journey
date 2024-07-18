@@ -1,11 +1,11 @@
-  ![Descrição da Imagem](img/tela-2)
-  ![Descrição da Imagem](img/tela-viagem)
+
 
 <div >
   <h1 style="color: white; text-align: center; padding-top: 40vh;">Bem-vindo ao Meu Plann.er</h1>
     <br/>
 
- 
+   ![Descrição da Imagem](img/tela-2.png)
+  ![Descrição da Imagem](img/tela-viagem.png)
   <br/>
 </div>
 
