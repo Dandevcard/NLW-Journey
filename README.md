@@ -1,9 +1,10 @@
 
-
 <div >
   <h1 style="color: white; text-align: center; padding-top: 40vh;">Bem-vindo ao Meu Plann.er</h1>
     <br/>
-  <img src="img/tela-2"  height: 50vh; width: 50%; />
+  ![Descrição da Imagem](img/tela-2)
+  ![Descrição da Imagem](img/tela-viagem)
+
  
   <br/>
 </div>
